@@ -1,0 +1,9 @@
+.buildpath
+.settings/
+.project
+.idea/
+laravel/
+index.php
+license.txt
+vendor/
+app/
