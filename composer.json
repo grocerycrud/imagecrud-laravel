@@ -2,7 +2,7 @@
     "name": "grocerycrud/imagecrud-laravel",
     "description": "ImageCRUD for Laravel Framework",
     "license": "MIT",
-    "keywords": ["ImageCRUD", "CRUD"],
+    "keywords": ["Image CRUD", "CRUD", "Photos CRUD"],
     "authors": [
         {
             "name": "John Skoumbourdis",
