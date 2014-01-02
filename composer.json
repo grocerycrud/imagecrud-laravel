@@ -1,5 +1,5 @@
 {
-    "name": "scoumbourdis/image-crud-laravel",
+    "name": "grocerycrud/imagecrud-laravel",
     "description": "ImageCRUD for Laravel Framework",
     "license": "MIT",
     "keywords": ["ImageCRUD", "CRUD"],
@@ -9,10 +9,10 @@
             "email": "scoumbourdisj@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.0",
-        "laravel/framework": "4.0.*"
+        "laravel/framework": "4.1.*"
     },
     "autoload": {
         "psr-0": {
