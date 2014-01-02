@@ -1,5 +1,5 @@
 v.0.6
-	#1 - Doesn't work in internet explorer browser.
+	Doesn't work in internet explorer browser.
 	Allow only images to upload
 v.0.5
 	Added jQuery Colorbox plugin instead of Fancybox.
@@ -8,9 +8,8 @@ v.0.5
 	Unset Delete functionality.
 	Multilingual functionality.
 	Title functionality for each photo with quick edit.
-	#3 - Generate thumbnails for existing images.
-	#2 - Allow different primary keys than "id".
-v.0.5 BETA
+	Generate thumbnails for existing images.
+	Allow different primary keys than "id".
 	Multiple selection of photos to upload the same time
 	Auto thumbnail croping
 	Auto croping for max size image (800px X 600px max)
