@@ -611,7 +611,7 @@ class ImageCrud {
 
 function base_url()
 {
-	return str_replace( "index.php", "", URL::to('/') );
+	return str_replace( "index.php", "", URL::to('/') ) . "/";
 }
 
 function site_url($url = '')
